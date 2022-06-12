@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # Geozavl
+   # geozavl
    
    # Input:
    # p, principal amount
